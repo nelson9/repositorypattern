@@ -1,0 +1,10 @@
+C:\MyOnlineSolutions\RepositoryPattern\Model\bin\Debug\Model.dll
+C:\MyOnlineSolutions\RepositoryPattern\Model\bin\Debug\Model.pdb
+C:\MyOnlineSolutions\RepositoryPattern\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\MyOnlineSolutions\RepositoryPattern\Model\obj\Debug\Model.dll
+C:\MyOnlineSolutions\RepositoryPattern\Model\obj\Debug\Model.pdb
+C:\repositorypattern\Model\bin\Debug\Model.dll
+C:\repositorypattern\Model\bin\Debug\Model.pdb
+C:\repositorypattern\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\repositorypattern\Model\obj\Debug\Model.dll
+C:\repositorypattern\Model\obj\Debug\Model.pdb
